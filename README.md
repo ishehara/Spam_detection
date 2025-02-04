@@ -1,5 +1,7 @@
 Spam Detection Web Application
+
 A simple web application that detects whether uploaded text is spam or not using Machine Learning. The application uses the Multinomial Naive Bayes classifier and CountVectorizer for text preprocessing, implemented through scikit-learn's Pipeline functionality.
+
 Features
 
 Simple and intuitive web interface
